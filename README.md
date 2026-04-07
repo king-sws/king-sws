@@ -14,7 +14,7 @@
 
 ### 🚀 Current Focus
 
-- 🔭 Actively building **[Blutto](https://blutto.vercel.app)** — a modern productivity platform for teams
+- 🔭 Actively building **[Propely](https://propely.site)** — a modern productivity platform for teams
   
 - 🌱 Deepening skills in **Node.js**, **MongoDB**, and backend architecture
   
